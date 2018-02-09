@@ -1,0 +1,1 @@
+/* Writing the first oficial hello world in javascript */
