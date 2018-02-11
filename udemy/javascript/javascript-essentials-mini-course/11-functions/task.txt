@@ -1,0 +1,5 @@
+1. Create a new function. It can be used for anything.
+2. Make sure your function can accept 1, 2, 3 or 4 parameters.
+3. Make your function RETURN a value.
+4. Save the value from a function into a variable outside of your function.
+5. console.log() the returned value from your function into your browser.

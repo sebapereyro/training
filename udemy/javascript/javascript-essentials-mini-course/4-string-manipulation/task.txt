@@ -1,5 +1,5 @@
 1. Create a string variable.
 2. Manipulate it using string methods such as substr(), split() and replace().
 3. Find a string inside a string using indexOf.
-4. Turn your sentence into a query string (url fragment) using replace(), 
+4. Turn your sentence into a query string (url fragment) using replace(),
    toLowerCase() and other methods you might find useful.

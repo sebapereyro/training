@@ -1,0 +1,4 @@
+1. Open your console in your browser.
+2. Perform a few basic math operations (Arithmetic operators, ie. 12 + 12)
+3. Figure out how to use Modulus (remainder of a division)
+4. Perform a few basic Assignment Operators (ie. var num = 10; num += 50)
